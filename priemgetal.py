@@ -1,5 +1,4 @@
 import math
-import ast
 
 priem = []
 try:
